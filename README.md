@@ -40,11 +40,11 @@ https://www.foam.org
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina
-<img src="images/home.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/home.PNG" width="375px" alt="dit is de homepagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Programma pagina
-<img src="images/programma.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/pagina2.PNG" width="375px" alt="dit is de detailpagina van de tentoonstelling">
  
 </details>
 
@@ -56,13 +56,11 @@ Programma pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdownschetsmenu.png" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -76,11 +74,11 @@ Programma pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+De basiskennis van html en css is een beetje verwaterd. Ik ben vooral bezig met het opfrissen van de de stof.
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+Deze week hebben we niks besloten met het groepje en heeft iedereen individuele vragen gesteld
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
@@ -92,8 +90,8 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
+- kijken naar de grid oefeningen
+- list vervangen voor grid
 - nog een punt
 - ...
 
@@ -109,26 +107,32 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Problemen waar ik tegen aan loop:
+- Sommige elementen reageren niet op de pseudocode in css. De P verdwijnt in mijn website of neemt de css van andere P's over. (zie afbeelding)
+<img src="images/nietzichtbaar.png" width="375px" alt="p">
+<img src="images/pcss.png" width="375px" alt="p">
+
+- Ik wil een custom cursor maken maar hij laat de img van de cursor niet zien
+
+
+
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+|Kyra               | student 2          | student 3    | student 4        |
+| ---               | ---                | ---          | ---              |
+| Kleur verandering | en dit             | en ik dit    | en dan ik dat    |
+| Custom Cursor     | dit als er tijd is | nog een punt | dit wil ik zeker |
+| a:hover           | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- P probleem oplossen
+
 
 </details>
 
@@ -136,7 +140,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 
-## Toegankelijkheidstest (week 4)
+## Toegankelijkheidstest (week 4) moet nog getest worden
 
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
@@ -179,26 +183,28 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+- het hamburgermenu maken ging goed af
+- de a moet nog vervangen worden met de button, deze vond ik lastig te stijlen
+- ik moet kijken naar de vw, zodat de site goed responsive is
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+we hebben niks besproken deze week maar ik heb wel mijn eigen punten genoteerd
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| vw bespreken   | en dit             | en ik dit    | en dan ik dat    |
+| feedback html  | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+-  de sections vervangen met div
+-  list vervangen door grid 
+-  de a vervangen voor een button
+
 
 </details>
 
@@ -212,15 +218,15 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+dit ging goed:
+het stijlen ging me goed af en ik vond het erg leuk om te doen. De site was nogal een uitdaging omdat het een hele interactieve site was wat niet altijd het zelfde was. 
+Ik heb veel geleerd maar bepaalde onderdelen maken duurde langer dan gewenst. Door deze reden ga ik voor een herkansing omdat ik niet genoeg tijd had om mijn site af te maken. 
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
 
 </details>
-
-
 
 
 
@@ -231,8 +237,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
+1. vw bron: https://css-tricks.com/how-do-you-do-max-font-size-in-css/#:~:text=CSS%20doesn't%20have%20max,font%2Dsize%3A%2010vw%3B%20.
+2. css + mozilla
 3. ...
 
 </details>
